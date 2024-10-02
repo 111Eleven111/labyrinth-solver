@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Oblig6 {
+public class LabyrintLøser {
     private static Scanner leser;
     private static String input = "";
     
